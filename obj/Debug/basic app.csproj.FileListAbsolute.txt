@@ -1,0 +1,7 @@
+C:\Users\Георги Димитров\source\repos\basic app\basic app\bin\Debug\basic app.exe.config
+C:\Users\Георги Димитров\source\repos\basic app\basic app\bin\Debug\basic app.exe
+C:\Users\Георги Димитров\source\repos\basic app\basic app\bin\Debug\basic app.pdb
+C:\Users\Георги Димитров\source\repos\basic app\basic app\obj\Debug\basic app.csprojResolveAssemblyReference.cache
+C:\Users\Георги Димитров\source\repos\basic app\basic app\obj\Debug\basic app.csproj.CoreCompileInputs.cache
+C:\Users\Георги Димитров\source\repos\basic app\basic app\obj\Debug\basic app.exe
+C:\Users\Георги Димитров\source\repos\basic app\basic app\obj\Debug\basic app.pdb
